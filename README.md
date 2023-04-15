@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABU TALIB</h1>
+<h1 align="center">Hi 👋, I'm Asikur Rahman</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asikurrahman75&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="abutalib4599" />
