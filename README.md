@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asikur Rahman</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asikurrahman75&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="abutalib4599" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asikurrahman75&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="asikwp75" />
 </p>
 
 | <a href="https://github.com/asikurrahman75/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman75&layout=compact&count_private=true&hide_rank=true&langs_count=6" alt="ASIKUR RAHMAN's github stats" /></a> | <a href="https://github.com/asikurrahman75/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asikurrahman75&show_icons=true&hide=prs&count_private=true" /></a> |
