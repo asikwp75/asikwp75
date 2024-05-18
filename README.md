@@ -50,28 +50,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>VuetifyJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
-      </td>
-      <td width="14.28%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    <td width="14.28%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>ExpressJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
       </tbody>
@@ -95,10 +75,6 @@
       <td width="14.28%" align="center">
         <span>BootsTrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
       <td width="14.28%" align="center">
         <span>SASS</span><br><br><br>
