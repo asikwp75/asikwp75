@@ -4,11 +4,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=asikwp75&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="asikwp75" />
 </p>
 
-| <a href="https://github.com/asikwp75/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikwp75&layout=compact&count_private=true" alt="ASIKUR RAHMAN's github stats" /></a> | <a href="https://github.com/asikwp75/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asikwp75&show_icons=true&hide=prs&count_private=true" /></a> |
-| ------------- | ------------- |
-
-### 👨‍💻 Skills
-
 <table>
   <tbody>
     <tr valign="top">
