@@ -3,6 +3,53 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asikwp75&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="asikwp75" />
 </p>
+<table>
+  <tbody>
+    <tr valign="top">
+       <td width="14.28%" align="center">
+        <span>WordPress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td> 
+      <td width="14.28%" align="center">
+        <span>WooCommerce</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Elementor</span><br><br><br>
+        <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg">
+      </td>
+       <td width="14.28%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+        <td width="14.28%" align="center">
+        <span>MYSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+       <td width="14.28%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+       <td width="14.28%" align="center">
+        <span>jQuery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+    </tr>
+      </tbody>
+</table>
+<table>
+  <tbody>
+      <td width="14.28%" align="center">
+        <span>VueJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+    </tr>
+      </tbody>
+</table>
 
 <table>
   <tbody>
