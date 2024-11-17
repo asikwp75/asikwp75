@@ -29,19 +29,6 @@
     </tr>
       </tbody>
 </table>
-<table>
-  <tbody>
-      <td width="14.28%" align="center">
-        <span>VueJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
-      </tbody>
-</table>
 
 <table>
   <tbody>
@@ -69,6 +56,14 @@
        <td width="14.28%" align="center">
         <span>Github</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
+            <td width="14.28%" align="center">
+        <span>VueJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
       </tbody>
