@@ -65,6 +65,10 @@
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
+      <td width="14.28%" align="center">
+        <span>gutenberg</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/306168/gutenberg.svg">
+      </td>
     </tr>
       </tbody>
 </table>
